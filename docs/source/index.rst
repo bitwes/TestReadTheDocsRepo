@@ -20,3 +20,6 @@ Contents
 
    usage
    api
+   Inner-Test-Classes
+   Input-Factory.md
+   Mock-Input
